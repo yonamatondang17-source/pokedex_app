@@ -29,14 +29,24 @@ Aplikasi **Pokédex** mobile berbasis **React Native (Expo)** yang memungkinkan 
 
 ## 📸 Screenshot dari Expo Go
 
-### 1. Loading Screen
-![Loading Screen](./assets/Screenshot%202026-06-26%20181407.png)
-
-### 2. Success Screen
-![Success Screen](./assets/Screenshot%202026-06-26%20181418.png)
-
-### 3. Error Screen
-![Error Screen](./assets/Screenshot%202026-06-26%20181541.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>1. Loading Screen</b><br/>
+        <img src="./assets/Screenshot%202026-06-26%20181541.png" width="200"/>
+      </td>
+      <td align="center">
+        <b>2. Success Screen</b><br/>
+        <img src="./assets/Screenshot%202026-06-26%20181407.png" width="200"/>
+      </td>
+      <td align="center">
+        <b>3. Error Screen</b><br/>
+        <img src="./assets/Screenshot%202026-06-26%20181418.png" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
